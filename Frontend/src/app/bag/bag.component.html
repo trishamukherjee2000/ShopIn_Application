@@ -1,0 +1,51 @@
+
+<app-header-login></app-header-login>
+
+
+<div class="card mt-4">
+    <div class="row">
+        <div class="col-md-8 cart">
+            <div class="title">
+                <div class="row">
+                    <div class="col"><h4><b>Shopping Cart</b></h4></div>
+                    
+                </div>
+            </div> 
+
+            <div *ngFor="let ob of bagdata" class="row border-top border-bottom">
+                <div class="row main align-items-center">
+                    <div class="col-2"><img class="img-fluid" src={{ob.imgurl}}></div>
+                    <div class="col">
+                        <div class="row text-muted">{{ob.productName}}</div>
+                        <div class="row">{{ob.imgUrl}}</div>
+                    </div>
+                    <div class="col">
+                       <a href="#" class="border">{{ob.noOfItems}}</a>
+                    </div>
+                    <div class="col">&#x20B9; {{ob.totalprice}}<span class="close">&#10005;</span></div>
+                </div>
+            </div>
+
+
+            <div class="back-to-shop"><a href="/">&leftarrow;</a><span class="text-muted">Back to shop</span></div>
+        </div>
+        <div class="col-md-4 summary">
+            <div><h5><b>Summary</b></h5></div>
+            <hr>
+            
+            <form>
+                <p>SHIPPING</p>
+                <select><option class="text-muted">Standard-Delivery- &euro;5.00</option></select>
+                <p>GIVE CODE</p>
+                <input id="code" placeholder="Enter your code">
+            </form>
+            <div class="row" style="border-top: 1px solid rgba(0,0,0,.1); padding: 2vh 0;">
+                <div class="col">TOTAL PRICE</div>
+                <div class="col text-right">&euro; {{checkoutTotal}}</div>
+            </div>
+            
+            <button class="btn" style="color: aqua;" (click)="GoToPage()">CHECKOUT</button>
+        </div>
+    </div>
+    
+</div>

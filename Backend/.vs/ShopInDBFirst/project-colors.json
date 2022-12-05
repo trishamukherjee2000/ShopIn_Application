@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9e004b5a-6cf5-43e9-83d7-b92bee6a3011": {
+      "ProjectGuid": "9e004b5a-6cf5-43e9-83d7-b92bee6a3011",
+      "DisplayName": "ShopInDBFirstDataAccessLayer",
+      "ColorIndex": 0
+    },
+    "ca843e3b-a876-4c25-a764-08d7bd7e425a": {
+      "ProjectGuid": "ca843e3b-a876-4c25-a764-08d7bd7e425a",
+      "DisplayName": "ShopInDBServices",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

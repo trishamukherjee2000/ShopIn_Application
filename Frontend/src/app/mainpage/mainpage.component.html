@@ -1,0 +1,49 @@
+<app-header *ngIf="!islogin"></app-header>
+
+<app-header-login *ngIf="islogin"></app-header-login>
+
+
+
+
+<div>
+  <div class="row">
+    
+    <div *ngFor="let ob of data" class="col-md-3 col-lg-3">
+      <div class="mx-3">
+        <div class="card" style="width: 18rem;">
+          <img class="card-img-top" src={{ob.imgUrl}} alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">{{ob.productName}}</h5>
+            <p class="card-text">Price: {{ob.price}}</p><p>Rating: {{ob.rating}}</p>
+            <button class="btn btn-primary mr-4" (click)="BuyNow()">Buy Now</button>
+            <button class="btn btn-success ml-4"(click)="AddtoCart(ob.productId)" >Add cart</button>
+          </div>
+        </div>
+      </div>
+    </div>
+   
+  </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<app-footer></app-footer>

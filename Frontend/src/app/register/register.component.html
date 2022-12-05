@@ -1,0 +1,61 @@
+<app-header></app-header>
+
+
+<div class="container">
+    <div class="row">
+      <div class="col-md-6 offset-md-3">
+        
+        <div class="card my-5">
+
+          <form #register="ngForm" class="card-body cardbody-color p-lg-5" (ngSubmit)="submit(register)">
+
+            <div class="text-center">
+              <img src="https://cdn-icons-png.flaticon.com/128/7787/7787109.png" class="img-fluid profile-image-pic img-thumbnail rounded-circle my-3"
+                width="120px" height ="70px" alt="profile">
+                <h2 class="title">
+                <p>
+                   REGISTER YOURSELF    
+                </p>
+                </h2>
+            </div>
+
+            <div class="mb-3">
+              <input type="text" name="uname" class="form-control" id="Username" aria-describedby="emailHelp" ngModel
+                placeholder="User Name">
+            </div>
+
+            <div class="mb-3">
+                <input type="email" name="email"  class="form-control" id="Email" aria-describedby="emailHelp" ngModel
+                  placeholder="Email ID">
+              </div>
+
+            <div class="mb-3">
+              <input type="password" name="pwd"  class="form-control" id="password" placeholder="Password" ngModel >
+            </div>
+            <div class="mb-3">
+                <input type="password" name="cpwd"  class="form-control" id="password" placeholder="Confirm Password" ngModel >
+              </div>
+              
+              <div class="mb-3">
+                <input type="text" name="phn"  class="form-control" id="Phonenumber" aria-describedby="emailHelp" ngModel 
+                  placeholder="Phone Number">
+              </div>
+
+              <div class="mb-3">
+                <input class="form-control" id="Address" rows="2" cols="15" name="addrss" 
+                  placeholder="Address" ngModel >
+                  
+              </div>
+
+            <div class="text-center"><button type="submit" class="btn btn-color px-5 mb-5 w-100">Submit</button></div>
+            <div id="emailHelp" class="form-text text-center mb-5 text-dark">Already have an account? 
+                <a href="/login" class="text-dark fw-bold"> Login</a>
+            </div>
+          </form>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <app-footer></app-footer>

@@ -1,0 +1,255 @@
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\appsettings.json
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\ShopInDBServices.exe
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\ShopInDBServices.deps.json
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\ShopInDBServices.runtimeconfig.json
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\ShopInDBServices.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\ShopInDBServices.pdb
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\ShopInDBFirstDataAccessLayer.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\bin\Debug\net6.0\ShopInDBFirstDataAccessLayer.pdb
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\obj\Debug\net6.0\ShopInDBServices.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\obj\Debug\net6.0\ShopInDBServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\obj\Debug\net6.0\ShopInDBServices.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\obj\Debug\net6.0\ShopInDBServices.AssemblyInfo.cs
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\obj\Debug\net6.0\ShopInDBServices.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\obj\Debug\net6.0\ShopInDBServices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\obj\Debug\net6.0\ShopInDBServices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\obj\Debug\net6.0\scopedcss\bundle\ShopInDBServices.styles.css
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\obj\Debug\net6.0\ShopInDBServices.csproj.CopyComplete
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\obj\Debug\net6.0\ShopInDBServices.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\obj\Debug\net6.0\refint\ShopInDBServices.dll
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\obj\Debug\net6.0\ShopInDBServices.pdb
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\obj\Debug\net6.0\ShopInDBServices.genruntimeconfig.cache
+C:\Users\User\source\repos\ShopIn\ShopInDBServices\obj\Debug\net6.0\ref\ShopInDBServices.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\appsettings.Development.json
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\appsettings.json
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\ShopInDBServices.exe
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\ShopInDBServices.deps.json
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\ShopInDBServices.runtimeconfig.json
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\ShopInDBServices.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\ref\ShopInDBServices.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\ShopInDBServices.pdb
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\Azure.Core.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\Azure.Identity.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\System.Text.Json.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\ShopInDBFirstDataAccessLayer.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\bin\Debug\net6.0\ShopInDBFirstDataAccessLayer.pdb
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\obj\Debug\net6.0\ShopInDBServices.csproj.AssemblyReference.cache
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\obj\Debug\net6.0\ShopInDBServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\obj\Debug\net6.0\ShopInDBServices.AssemblyInfoInputs.cache
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\obj\Debug\net6.0\ShopInDBServices.AssemblyInfo.cs
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\obj\Debug\net6.0\ShopInDBServices.csproj.CoreCompileInputs.cache
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\obj\Debug\net6.0\ShopInDBServices.MvcApplicationPartsAssemblyInfo.cs
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\obj\Debug\net6.0\ShopInDBServices.MvcApplicationPartsAssemblyInfo.cache
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\obj\Debug\net6.0\staticwebassets.build.json
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\obj\Debug\net6.0\staticwebassets.development.json
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\obj\Debug\net6.0\scopedcss\bundle\ShopInDBServices.styles.css
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\obj\Debug\net6.0\ShopInDBServices.csproj.CopyComplete
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\obj\Debug\net6.0\ShopInDBServices.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\obj\Debug\net6.0\ref\ShopInDBServices.dll
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\obj\Debug\net6.0\ShopInDBServices.pdb
+E:\Project\tr_info\ShopIn\Backend\ShopInDBServices\obj\Debug\net6.0\ShopInDBServices.genruntimeconfig.cache
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\appsettings.Development.json
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\appsettings.json
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\ShopInDBServices.exe
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\ShopInDBServices.deps.json
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\ShopInDBServices.runtimeconfig.json
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\ShopInDBServices.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\ShopInDBServices.pdb
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\Azure.Core.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\Azure.Identity.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\System.Memory.Data.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\System.Text.Json.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\ShopInDBFirstDataAccessLayer.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\bin\Debug\net6.0\ShopInDBFirstDataAccessLayer.pdb
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\obj\Debug\net6.0\ShopInDBServices.csproj.AssemblyReference.cache
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\obj\Debug\net6.0\ShopInDBServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\obj\Debug\net6.0\ShopInDBServices.AssemblyInfoInputs.cache
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\obj\Debug\net6.0\ShopInDBServices.AssemblyInfo.cs
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\obj\Debug\net6.0\ShopInDBServices.csproj.CoreCompileInputs.cache
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\obj\Debug\net6.0\ShopInDBServices.MvcApplicationPartsAssemblyInfo.cs
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\obj\Debug\net6.0\ShopInDBServices.MvcApplicationPartsAssemblyInfo.cache
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\obj\Debug\net6.0\staticwebassets.build.json
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\obj\Debug\net6.0\staticwebassets.development.json
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\obj\Debug\net6.0\scopedcss\bundle\ShopInDBServices.styles.css
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\obj\Debug\net6.0\ShopInDBServices.csproj.CopyComplete
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\obj\Debug\net6.0\ShopInDBServices.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\obj\Debug\net6.0\refint\ShopInDBServices.dll
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\obj\Debug\net6.0\ShopInDBServices.pdb
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\obj\Debug\net6.0\ShopInDBServices.genruntimeconfig.cache
+D:\INFOSYS PROJECT\Ecommerece\Backend\ShopInDBServices\obj\Debug\net6.0\ref\ShopInDBServices.dll
